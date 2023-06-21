@@ -5,6 +5,6 @@
 </head>
 <body>
 
-<h1>MUSIC!!!!!!!</h1>
+<h6 style="text-align:center;">Discover the magic of music</h6>
 <p>we are student who are working on a project.</p>
 <h1 style="background-color:DodgerBlue;">Hello World</h1> 
