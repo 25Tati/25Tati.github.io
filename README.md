@@ -1,14 +1,26 @@
 # 25Tati.github.io
+<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style>
+h1 {
+  color: black; 
+  font-family: Times new Roman;
+  font-size: 300%;
+  background-color: violet  
+}
+p {
+  color: black;
+  font-family: calibri;
+  font-size: 160%;
+}
+</style>
+
 </head>
 <body>
 
-<h1 style="text-align:center;">Discover the magic of music</h1>
-<h1 style="font-size:300%;">Discover the magic of music</h1> 
-<h1 style="background-color:powderblue;">Discover the magic of music</h1> 
-h2 { color: #990a00; font-family: 'Playfair Display', serif; font-size: 20px; margin-top: 10px; font-style: italic; }
+<h1>Discover the Magic of Music</h1>
+<p>If your interested in music, let's took a look at our Melody stories!</p>
 
-<p>we are student who are working on a project.</p>
-<h1 style="background-color:DodgerBlue;">Hello World</h1> 
+</body>
+</html>
