@@ -16,6 +16,8 @@ p {
 }
 </style>
 
+<img src="tabella.png" alt= "Image"> 
+
 </head>
 <body>
 
