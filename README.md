@@ -18,7 +18,6 @@ p {
 
 <img src="https://github.com/25Tati/25Tati.github.io/blob/main/tabella.png?raw=true" alt="tabella"/>   
 
-<img src="https://github.com/25Tati/25Tati.github.io/blob/main/bar%20chart.png?raw=true alt="bar chart"/>
 
 </head>
 <body>
