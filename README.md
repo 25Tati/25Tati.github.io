@@ -16,7 +16,7 @@ p {
 }
 </style>
 
-<canvas id="4__chartid" width="835" height="417" style="display: block; height: 278px; width: 557px;" class="chartjs-render-monitor"></canvas> 
+<img src="https://github.com/25Tati/25Tati.github.io/blob/main/tabella.png?raw=true" alt="tabella"/>   
 
 </head>
 <body>
